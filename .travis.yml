@@ -1,5 +1,4 @@
 language: node_js
-script: echo hoge
 node_js:
   - 0.4
   - 0.6
