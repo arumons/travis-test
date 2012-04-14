@@ -9,6 +9,9 @@
   "engines": {
     "node": "~0.6.9"
   },
+  "scripts": {
+    "test": "echo hoge"
+  },
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {}
